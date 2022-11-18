@@ -1,6 +1,6 @@
 # Classify-Song-Genres-from-Audio-Data-dataset
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ahlem125/Classify-Song-Genres-from-Audio-Data-dataset/main?labpath=notebook.ipynb)
 # Song-Genre-Classification
 ### Rock or rap?
  Classifying Song Genres from Audio Data. Applying Machine Learning methods in Python to classify songs into genres.
